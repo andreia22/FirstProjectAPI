@@ -31,8 +31,7 @@ namespace FirstProjectAPI.Controllers
 
                 return null;
             }
-
-            
+ 
             
             return Enumerable.Range(1, quantity).Select(index => new WeatherForecast
             {

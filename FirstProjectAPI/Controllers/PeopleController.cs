@@ -31,8 +31,6 @@ namespace FirstProjectAPI.Controllers
                 return people;
             }
 
-
-
         }
-    }
+ }
 
